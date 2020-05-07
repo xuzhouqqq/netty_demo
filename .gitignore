@@ -1,0 +1,14 @@
+*.jar
+*.class
+.idea
+*.iml
+.vertx
+target
+*.log
+.DS_Store
+.gradle
+.classpath
+.project
+.settings
+out
+file-uploads
